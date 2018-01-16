@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\dev_workspace\k-means\k-means\main.cpp(8): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  k_means.cpp
+  正在生成代码...
+  K-means.vcxproj -> D:\dev_workspace\K-means\Debug\K-means.exe
+  K-means.vcxproj -> D:\dev_workspace\K-means\Debug\K-means.pdb (Full PDB)
